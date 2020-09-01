@@ -1,6 +1,8 @@
-# Teste Spring Data com Mongo
-Teste Mongo e java e Spring Data.
+# Teste Simples Spring WeFlux
+Teste simples usando Spring WebFlux.
 
-Em um projeto anterior foi Conectando no mongo sem framework e fazendo o codec/ModelMapper na mão.
+É baseado no guia oficial 
+https://spring.io/guides/gs/reactive-rest-service/
 
-Agora usamos o spring data para conectar
+
+
